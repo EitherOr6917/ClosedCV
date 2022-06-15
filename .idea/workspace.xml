@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="135d85c8-e4b2-45cd-927b-90e4a45d1c58" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/setup.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/setup.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/closedcv/libfunctions.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/closedcv/libfunctions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_libfunctions.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

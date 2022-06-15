@@ -1,2 +1,3 @@
-def ex_function(text: str = ""):
-    return print(text)
+def image_question_mark(*args):
+    print('no')
+    return args
